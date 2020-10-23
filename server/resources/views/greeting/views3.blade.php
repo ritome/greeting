@@ -11,3 +11,4 @@
     <h2>{{$greetings}}</h2>
 </body>
 </html>
+
