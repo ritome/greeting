@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>自由なメッセージ</h1>
-    <h2>{{$word}}</h2>
+    <h2>{{ $word }}</h2>
 </body>
 </html>

@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>ランダムなメッセージ</h1>
-    <h2>{{$greetings}}</h2>
+    <h2>{{ $greetings }}</h2>
 </body>
 </html>
+
