@@ -7,8 +7,8 @@
     <title>comments</title>
 </head>
 <body>
-<h1>{{$time_zone}}</h1>
-<h2>{{$greeting}}</h2>
+<h1>{{ $time_zone }}</h1>
+<h2>{{ $greeting }}</h2>
 </body>
 </html>
 
